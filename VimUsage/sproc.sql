@@ -1,0 +1,7 @@
+DELIMITER //
+CREATE PROCEDURE GetAllStatus()
+BEGIN
+  SELECT * FROM products
+  UNION
+  SELECT * FROM employees;
+END //

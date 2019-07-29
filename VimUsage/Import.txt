@@ -1,0 +1,533 @@
+https://devzone.zend.com/4/php-101-part-1-down-the-rabbit-hole/ | PHP 101 (part 1): Down the Rabbit Hole - Zend Developer Zone
+https://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/ | PHP 101: PHP For the Absolute Beginner - Zend Developer Zone
+https://stackify.com/learn-php-tutorials/ | Learn PHP with the Top 25 PHP Tutorials: Resources, Websites, Courses
+https://hackr.io/tutorials/learn-php/page/2?sort=upvotes&type_tags%5B0%5D=1&languages%5B0%5D=en | Learn PHP - [2019] Most Recommended PHP Tutorials | Hackr.io
+https://phpthewrongway.com/?ref=hackr.io | PHP - The Wrong Way
+http://www.nusphere.com/php/php_tutorial1.htm? | PHP Tutorial :: page 2
+https://www.whoishostingthis.com/resources/php/ | PHP Programming: Expert or Novice, There's a Tutorial for PHP Devs of Any Skill Level - WhoIsHostingThis.com
+https://www.youtube.com/watch?v=h2Nq0qv0K8M | Lecture 1 "PHP". Building Dynamic websites. Harvard OpencourseWare. CS E-75 - YouTube
+https://phppot.com/php/ajax-based-login-registration-system-with-jquery-lightbox/ | AJAX Based Login Registration System with jQuery Lightbox - Phppot
+https://codecourse.com/library/search?q=php | Search - Library | Codecourse
+http://cs75.tv/2012/summer/ | CS75.tv
+https://ide.cs50.io/beta/SaintPudge/ide | CS50 IDE
+https://www.rosettacode.org/wiki/Category:PHP | Category:PHP - Rosetta Code
+https://www.rosettacode.org/wiki/100_doors#PHP | 100 doors - Rosetta Code
+https://www.rosettacode.org/wiki/Abstract_type | Abstract type - Rosetta Code
+https://www.google.com/search?ei=edA6XaOpIYXnwQOMv4KQAQ&q=how+to+get+file+location+in+php&oq=how+to+get+file+location+in+php&gs_l=psy-ab.3..0j0i22i30l2.3723.7556..7797...6.0..0.122.1861.15j6......0....1..gws-wiz.......0i71j0i10j0i13i30j0i8i13i30j0i13.TqPP5ycPVNc&ved=0ahUKEwjjycr8qtLjAhWFc3AKHYyfABIQ4dUDCAo&uact=5 | how to get file location in php - Google Search
+https://stackoverflow.com/questions/4645082/get-absolute-path-of-current-script | php - Get absolute path of current script - Stack Overflow
+
+https://www.guru99.com/php-interview-questions-answers.html | Top 100 PHP Interview Questions and Answers
+https://www.softwaretestinghelp.com/php-interview-questions/ | 50 Top PHP Interview Questions and Answers (For ALL)
+https://codeshack.io/21-useful-php-snippets/ | 21 Useful PHP Snippets
+https://phpbuilder.com/category/snippet/ | 900+ PHP Snippets - PHPBuilder.com
+https://www.jonasjohn.de/snippets/php/ | PHP snippets
+https://www.exakat.io/5-usages-of-static-keyword-in-php/ | 5 usages of static keyword in PHP - Exakat
+http://zetcode.com/java/statickeyword/ | Java static keyword - static variables, methods, blocks, imports
+https://stackoverflow.com/questions/25593055/variable-variables-in-php-what-is-their-purpose | Variable variables in PHP - What is their purpose? - Stack Overflow
+https://www.quora.com/What-are-the-best-pratices-for-learn-PHP-from-scratch | What are the best pratices for learn PHP from scratch? - Quora
+http://www.tizag.com/phpT/variable.php | PHP Tutorial - Variables
+http://www.tizag.com/phpT/php-string-strpos.php | PHP Tutorial - strpos
+https://fullspeed.atlassian.net/secure/RapidBoard.jspa?rapidView=100&projectKey=FSTSI&selectedIssue=FSTSI-193 | FI board - Agile Board - JIRA
+https://www.geekboots.com/story/10-most-useful-php-inbuilt-functions | The most useful PHP inbuilt functions | Geekboots Story
+https://www.exakat.io/top-100-php-functions/ | Top 100 PHP functions - Exakat
+https://en.wikiversity.org/wiki/25_Essential_PHP_Functions | 25 Essential PHP Functions - Wikiversity
+https://www.php-fig.org/psr/psr-2/ | PSR-2: Coding Style Guide - PHP-FIG
+https://www.php-fig.org/psr/psr-1/ | PSR-1: Basic Coding Standard - PHP-FIG
+http://docs.php.net/manual/da/language.oop5.typehinting.php | PHP: Type Hinting - Manual
+https://stackoverflow.com/questions/38308985/why-is-type-hinting-necessary-in-php | oop - Why is type hinting necessary in PHP? - Stack Overflow
+https://www.tutorialrepublic.com/php-tutorial/php-loops.php | PHP While, Do-While, For and Foreach Loops - Tutorial Republic
+https://www.php.net/manual/en/function.mysqli-connect.php | PHP: mysqli_connect - Manual
+http://www.nusphere.com/kb/phpmanual/wrappers.php.htm? | PHP Manual: PHP input/output streams
+https://www.w3schools.com/php/php_ref_misc.asp | PHP Misc. Functions
+http://zetcode.com/lang/php/strings/ | Strings in PHP - working with string data type in PHP
+https://www.w3schools.com/php7/php7_ref_string.asp | PHP 7 String Functions
+https://www.w3schools.com/php7/func_string_strcasecmp.asp | PHP 7 strcasecmp() Function
+https://www.w3schools.com/php7/func_string_stripos.asp | PHP 7 stripos() Function
+https://www.google.com/search?ei=S2o5XZafGtrn-Aae_6LoAg&q=how+to+split+word+in+php&oq=how+to+split+word+in+php&gs_l=psy-ab.3..0i7i30l2j0i8i7i30l2.1106.1533..1802...0.0..0.114.380.3j1......0....1..gws-wiz.......0i71.VGcjguKLWek&ved=0ahUKEwjW8LWx1c_jAhXaM94KHZ6_CC0Q4dUDCAo&uact=5 | how to split word in php - Google Search
+https://stackoverflow.com/questions/18638753/php-explode-split-string-into-words-by-using-space-a-delimiter | arrays - php explode: split string into words by using space a delimiter - Stack Overflow
+https://www.php.net/manual/en/function.str-split.php | PHP: str_split - Manual
+https://www.c-sharpcorner.com/UploadFile/051e29/implode-and-explode-function-in-php/ | Implode() and Explode() Function in PHP
+https://www.hostingadvice.com/how-to/php-array-to-string/ | PHP "Array to String" (Examples of How to Use the implode Function) - HostingAdvice.com
+https://phppot.com/category/php/php-ajax/ | PHP AJAX - Phppot
+https://www.jquery-az.com/php-isset-and-unset-with-5-examples-and-code/ | PHP isset and unset with 5 examples and code
+
+https://www.youtube.com/watch?v=kiooi5U8H-Y | MySQL, PHP: Using variable variables | lynda.com - YouTube
+https://stackoverflow.com/questions/11134686/static-variables-what-is-their-life-span | java - static variables, what is their life span? - Stack Overflow
+https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6 | MongoDB Cheat Sheet
+https://www.guru99.com/nosql-tutorial.html | NoSQL Tutorial: Learn NoSQL Features, Types, What is, Advantages
+https://stackoverflow.com/questions/1179758/function-vs-stored-procedure-in-sql-server | Function vs. Stored Procedure in SQL Server - Stack Overflow
+https://www.sqlshack.com/functions-vs-stored-procedures-sql-server/ | Functions vs stored procedures in SQL Server
+https://en.wikipedia.org/wiki/Relational_algebra | Relational algebra - Wikipedia
+https://en.wikipedia.org/wiki/Cartesian_product | Cartesian product - Wikipedia
+https://en.wikipedia.org/wiki/First-order_logic | First-order logic - Wikipedia
+https://en.m.wikipedia.org/wiki/Query_language | Query language - Wikipedia
+https://www.freecodecamp.org/news/learn-mongodb-a4ce205e7739/ | How to get started with MongoDB in 10 minutes
+https://beginnersbook.com/2013/12/hashmap-in-java-with-example/ | HashMap in Java with Example
+https://www.javatpoint.com/java-hashmap | HashMap in Java - javatpoint
+https://www.w3schools.com/java/java_hashmap.asp | Java HashMap
+https://www.w3schools.com/java/java_examples.asp | Java Examples
+https://www.w3schools.com/java/java_interface.asp | Java Interface
+https://www.w3schools.com/java/java_classes.asp | Java Classes and Objects
+https://www.w3schools.com/java/java_class_attributes.asp | Java Class Attributes
+https://stackoverflow.com/questions/8531292/why-to-use-interfaces-multiple-inheritance-vs-interfaces-benefits-of-interface | java - Why to use Interfaces, Multiple Inheritance vs Interfaces, Benefits of Interfaces? - Stack Overflow
+https://www.google.com/search?q=the+order+of+method+chaining&oq=the+order+of+method+chain&aqs=chrome.3.69i57j33l5.5980j0j7&sourceid=chrome&ie=UTF-8 | the order of method chaining - Google Search
+https://www.sitepoint.com/a-guide-to-method-chaining/ | A Guide to Method Chaining — SitePoint
+https://stackoverflow.com/questions/2134798/java-why-are-wrapper-classes-needed | collections - Java: Why are wrapper classes needed? - Stack Overflow
+https://stackoverflow.com/questions/13361489/differences-between-an-array-and-any-collection-from-the-java-collection-framewo | Differences between an array and any collection from the java Collection framework? - Stack Overflow
+https://www.journaldev.com/1663/java-generics-example-method-class-interface | Java Generics Example Tutorial - Generic Method, Class, Interface - JournalDev
+https://www.baeldung.com/java-generics | The Basics of Java Generics – Baeldung
+https://codegym.cc/groups/posts/32-wrappers-unboxing-and-boxing | Wrapper Classes in Java, unboxing, and boxing | CodeGym
+https://docs.oracle.com/javase/tutorial/java/data/autoboxing.html | Autoboxing and Unboxing (The Java™ Tutorials > Learning the Java Language > Numbers and Strings)
+
+https://stackoverflow.com/questions/5317889/sql-keys-mul-vs-pri-vs-uni | mysql - SQL keys, MUL vs PRI vs UNI - Stack Overflow
+https://stackoverflow.com/questions/824584/drop-foreign-key-without-knowing-the-name-of-the-constraint | sql server - Drop Foreign Key without knowing the name of the constraint? - Stack Overflow
+https://stackoverflow.com/questions/838354/mysql-removing-some-foreign-keys | MySQL Removing Some Foreign keys - Stack Overflow
+https://data-flair.training/blogs/sql-query-interview-questions/ | SQL Query Interview Questions - Practice All Types of SQL Queries - DataFlair
+https://stackoverflow.com/questions/1277460/what-is-the-difference-between-group-by-and-order-by-in-sql | mysql - what is the difference between GROUP BY and ORDER BY in sql - Stack Overflow
+https://www.techonthenet.com/sql/in.php | SQL: IN Condition
+https://www.w3schools.com/sql/sql_in.asp | SQL IN Operator
+https://www.tutorialrepublic.com/sql-tutorial/ | SQL Tutorial - An Ultimate Guide for Beginners
+https://www.tutorialspoint.com/sql/sql-overview.htm | SQL Overview
+https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm | SQL RDBMS Concepts
+https://www.tutorialspoint.com/sql/sql-databases.htm | SQL RDBMS Databases
+https://www.codecademy.com/learn/learn-sql/modules/learn-sql-multiple-tables | Learn SQL: Multiple Tables | Codecademy
+https://www.dofactory.com/sql/tutorial | SQL Tutorial | Database Tutorial | Examples
+https://stackoverflow.com/questions/17759687/cross-join-vs-inner-join-in-sql-server-2008 | CROSS JOIN vs INNER JOIN in SQL Server 2008 - Stack Overflow
+https://stackoverflow.com/questions/33947260/is-there-any-rule-of-thumb-to-construct-sql-query-from-a-human-readable-descript/33952141#33952141 | database - Is there any rule of thumb to construct SQL query from a human-readable description? - Stack Overflow
+https://stackoverflow.com/questions/27682228/how-to-get-matching-data-from-another-sql-table-for-two-different-columns-inner/27682724#27682724 | ms access - How to get matching data from another SQL table for two different columns: Inner Join and/or Union? - Stack Overflow
+https://www.quora.com/What-is-the-difference-between-Cross-Join-and-Inner-Join-in-MySQL | What is the difference between Cross Join and Inner Join in MySQL? - Quora
+https://www.w3schools.com/sql/sql_ref_from.asp | SQL FROM
+https://www.techonthenet.com/sql/from.php | SQL: FROM Clause
+https://modern-sql.com/feature/with | SQL WITH: Organize Complex Queries
+https://www.google.com/search?q=full+vs+cross+join&oq=full+vs+cross+&aqs=chrome.0.0j69i57j0l3j69i64.3742j0j7&sourceid=chrome&ie=UTF-8 | full vs cross join - Google Search
+https://stackoverflow.com/questions/3228871/sql-server-what-is-the-difference-between-cross-join-and-full-outer-join | SQL Server: What is the difference between CROSS JOIN and FULL OUTER JOIN? - Stack Overflow
+https://www.w3schools.com/Sql/sql_join_full.asp | SQL FULL OUTER JOIN Keyword
+https://stackoverflow.com/questions/31925971/self-join-vs-inner-join | sql - self join vs inner join - Stack Overflow
+https://www.google.com/search?q=what+is+mysql&oq=what+is+mysql&aqs=chrome..69i57j69i60j0l4.1760j0j7&sourceid=chrome&ie=UTF-8 | what is mysql - Google Search
+https://searchoracle.techtarget.com/definition/MySQL | What is MySQL? - Definition from WhatIs.com
+https://hackr.io/blog/django-vs-laravel | Django Vs Laravel: Which framework to choose in 2019?
+https://hackr.io/blog/kotlin-vs-java | Kotlin vs Java: [2019] Most Important Differences That You Must Know
+http://www.mysqltutorial.org/understand-mysql-table-types-innodb-myisam.aspx | Understanding MySQL Table Types
+http://zetcode.com/databases/mysqltutorial/storageengines/ | MySQL storage engines - InnoDB, MyISAM, Memory
+https://www.merriam-webster.com/dictionary/proprietary | Proprietary | Definition of Proprietary by Merriam-Webster
+https://www.quora.com/What-are-the-two-parts-of-SQL | What are the two parts of SQL? - Quora
+https://www.sqa.org.uk/e-learning/SoftDevRDS04CD/page_02.htm | SQL Components
+https://www.lifewire.com/what-is-sql-1019769 | Structured Query Language (SQL) and Web Pages
+https://stackoverflow.com/questions/4796872/how-to-do-a-full-outer-join-in-mysql/30497590 | sql - How to do a FULL OUTER JOIN in MySQL? - Stack Overflow
+https://stackoverflow.com/questions/4796872/how-to-do-a-full-outer-join-in-mysql | sql - How to do a FULL OUTER JOIN in MySQL? - Stack Overflow
+https://stackoverflow.com/questions/2384298/why-does-mysql-report-a-syntax-error-on-full-outer-join | php - Why does MySQL report a syntax error on FULL OUTER JOIN? - Stack Overflow
+https://dev.mysql.com/doc/refman/8.0/en/outer-join-simplification.html | MySQL :: MySQL 8.0 Reference Manual :: 8.2.1.9 Outer Join Simplification
+https://devhints.io/mysql | MySQL cheatsheet
+https://www.guru99.com/delete-and-update.html | MySQL UPDATE & DELETE Query with Example
+https://www.studytonight.com/dbms/sql-constraints.php | All SQL Constraints - NOT NULL, UNIQUE, CHECK etc | Studytonight
+https://www.studytonight.com/dbms/database-normalization.php | 1NF, 2NF, 3NF and BCNF in Database Normalization | Studytonight
+https://www.studytonight.com/dbms/er-to-relational-model.php | ER Model to Relational Model Database Design | Studytonight
+https://www.studytonight.com/dbms/overview-of-dbms.php | Overview of Databse and DBMS | Studytonight
+https://www.studytonight.com/dbms/components-of-dbms.php | Components of DBMS (Database Management System) | Studytonight
+https://www.thegeekstuff.com/2013/09/mysql-select-command/ | 25 Essential MySQL Select Command Examples
+https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL_Beginner.html | MySQL Tutorial - MySQL By Examples for Beginners
+https://www.javatpoint.com/mysql-queries | MySQL Queries - javatpoint
+https://www.google.com/search?q=what+is+referential+integrity&oq=what+is+referential+in&aqs=chrome.0.0j69i57j0l4.7063j0j7&sourceid=chrome&ie=UTF-8 | what is referential integrity - Google Search
+https://www.youtube.com/watch?v=alc5OWoLDkY | Database Design 33 - Cardinality - YouTube
+https://www.merriam-webster.com/dictionary/aggregate | Aggregate | Definition of Aggregate by Merriam-Webster
+https://www.thesaurus.com/browse/aggregate | Aggregate Synonyms, Aggregate Antonyms | Thesaurus.com
+https://devhints.io/mysql | MySQL cheatsheet
+https://www.google.com/search?ei=jVU1XcGRFYTv-Qba1aLIAg&q=alter+field+in+mysql&oq=alter+field+in+mysql&gs_l=psy-ab.3..0i7i30l3j0j0i8i30.2973.3406..5061...0.0..0.91.434.5......0....1..gws-wiz.......0i71j0i8i7i30.lXtMNRz1fvg&ved=0ahUKEwiBjLCF8cfjAhWEd94KHdqqCCkQ4dUDCAo&uact=5 | alter field in mysql - Google Search
+https://www.tutorialspoint.com/mysql/mysql-alter-command | MySQL ALTER Command
+https://stackoverflow.com/questions/22858717/how-mysql-work-when-using-change-modify-column-inside-alter-table | How mysql work when using change , modify , column inside alter table ？ - Stack Overflow
+https://stackoverflow.com/questions/14767174/modify-column-vs-change-column | mysql - Modify column Vs change column - Stack Overflow
+https://dev.mysql.com/doc/refman/8.0/en/alter-table.html | MySQL :: MySQL 8.0 Reference Manual :: 13.1.9 ALTER TABLE Syntax
+https://www.guru99.com/alter-drop-rename.html | MYSQL - ALTER, DROP, RENAME, MODIFY
+https://www.geeksforgeeks.org/sql-ddl-dml-dcl-tcl-commands/ | SQL | DDL, DML, DCL and TCL Commands - GeeksforGeeks
+https://www.journaldev.com/16767/sql | SQL - JournalDev
+https://www.journaldev.com/17773/sql-interview-questions-answers | SQL Interview Questions and Answers - JournalDev
+https://stackoverflow.com/questions/6679122/how-to-enforce-unique-constraint-in-mysql | sql - How to enforce unique constraint in MySQL? - Stack Overflow
+https://www.codecademy.com/articles/sql-commands | List of SQL Commands | Codecademy
+https://itsfoss.com/basic-sql-commands/ | Using Basic SQL Commands with MySQL [Beginner's Tutorial]
+https://dev.mysql.com/doc/refman/8.0/en/with.html | MySQL :: MySQL 8.0 Reference Manual :: 13.2.13 WITH Syntax (Common Table Expressions)
+https://www.google.com/search?q=with+command+mysql&oq=with+command+m&aqs=chrome.0.69i59j69i57j0l4.3754j0j7&sourceid=chrome&ie=UTF-8 | with command mysql - Google Search
+https://stackoverflow.com/questions/10028214/add-foreign-key-to-existing-table | mysql - Add Foreign Key to existing table - Stack Overflow
+https://www.w3schools.com/sql/sql_constraints.asp | SQL Constraints
+https://www.google.com/search?q=add+foreign+key+to+a+blank+table&oq=add+foreign+key+to+a+blank+table&aqs=chrome..69i57j33l5.16123j0j4&sourceid=chrome&ie=UTF-8 | add foreign key to a blank table - Google Search
+https://www.w3schools.com/sql/sql_select_into.asp | SQL SELECT INTO Statement
+https://www.w3schools.com/sql/sql_foreignkey.asp | SQL FOREIGN KEY Constraint
+http://www.mysqltutorial.org/mysql-foreign-key/ | MySQL Foreign Key | Create, Add, Drop Foreign Keys Tutorial
+https://stackoverflow.com/questions/19806065/how-do-i-change-the-database-name-using-mysql | How do I change the database name using MySQL? - Stack Overflow
+http://www.mysqltutorial.org/mysql-foreign-key/ | MySQL Foreign Key | Create, Add, Drop Foreign Keys Tutorial
+https://www.google.com/search?q=sql+syntax+rules&oq=sql+syntax+ru&aqs=chrome.1.69i57j0l5.15754j0j7&sourceid=chrome&ie=UTF-8 | sql syntax rules - Google Search
+https://www.tutorialspoint.com/sql/sql-syntax | SQL Syntax
+https://www.google.com/search?q=constraints+in+sql&oq=constraints+in+sql&aqs=chrome..69i57j0l5.4516j1j7&sourceid=chrome&ie=UTF-8 | constraints in sql - Google Search
+https://www.tutorialrepublic.com/sql-tutorial/sql-constraints.php | Understanding the SQL Constraints - Tutorial Republic
+https://www.guru99.com/relational-data-model-dbms.html | Relational Data Model in DBMS: Concepts, Constraints, Example
+https://beginnersbook.com/2015/04/data-models-in-dbms/ | Data models in DBMS
+https://www.google.com/search?q=components+of+sql+in+dbms&sa=X&ved=2ahUKEwi2qPubr8jjAhVVUN4KHQuSC7EQ1QIoAXoECAoQAg&biw=1680&bih=874 | components of sql in dbms - Google Search
+https://www.studytonight.com/dbms/introduction-to-sql.php | Introduction to SQL (Structure Query Language) | Studytonight
+https://docs.google.com/presentation/d/1zXvTn_LewSnMrqSa7ACaBdTSj26b7B3Zdl9cYkFFg4A/edit#slide=id.g5de46d0357_0_5 | SQL - Google Slides
+https://www.dataentryoutsourced.com/blog/components-of-a-database-management-system/ | Components of a Database Management System
+
+http://www.mysqltutorial.org/mysql-stored-procedure-tutorial.aspx | MySQL Stored Procedure Tutorial
+https://www.w3resource.com/mysql/mysql-procedure.php | MySQL Stored Procedure - w3resource
+https://dev.mysql.com/doc/connector-net/en/connector-net-tutorials-stored-procedures.html | MySQL :: MySQL Connector/NET Developer Guide :: 4.1.5 Working with Stored Procedures
+https://dev.mysql.com/doc/refman/8.0/en/create-procedure.html | MySQL :: MySQL 8.0 Reference Manual :: 13.1.17 CREATE PROCEDURE and CREATE FUNCTION Syntax
+http://www.mysqltutorial.org/mysql-stored-function/ | MySQL Stored Function Tutorial with Example
+http://www.mysqltutorial.org/introduction-to-sql-stored-procedures.aspx | Introduction to Stored Procedure in MySQL
+https://www.youtube.com/watch?v=TCt6IZCZTxc | MySQL Stored Procedures and Functions (Topic #5: MySQL course from JPassion.com) - YouTube
+https://www.youtube.com/watch?v=HXV3zeQKqGY | SQL Tutorial - Full course for beginners - YouTube
+https://www.youtube.com/watch?v=ztHopE5Wnpc | Database Design Course - Learn how to design and plan a database for beginners - YouTube
+https://www.rootusers.com/17-bash-history-command-examples-in-linux/ | 17 Bash History Command Examples In Linux
+http://www.mysqltutorial.org/mysql-having.aspx | MySQL HAVING
+https://www.w3schools.com/php/php_examples.asp | PHP Examples
+https://stackoverflow.com/questions/9253244/sql-having-vs-where | SQL - having VS where - Stack Overflow
+https://www.geeksforgeeks.org/having-vs-where-clause/ | Having vs Where Clause? - GeeksforGeeks
+https://www.geeksforgeeks.org/different-types-of-mysql-triggers-with-examples/ | Different types of MySQL Triggers (with examples) - GeeksforGeeks
+https://www.geeksforgeeks.org/sql-triggers/ | SQL | Triggers - GeeksforGeeks
+https://www.guru99.com/views.html | Views in MySQL Tutorial: Create, Join & Drop with Examples
+https://stackoverflow.com/questions/5194995/what-is-the-difference-between-a-stored-procedure-and-a-view | sql - What is the difference between a stored procedure and a view? - Stack Overflow
+https://social.msdn.microsoft.com/Forums/sqlserver/en-US/855a2eb3-5c36-4d44-a102-f2c30290fc7c/difference-between-view-procedure-and-function?forum=sqlexpress | Difference between View, Procedure and Function
+
+https://dev.mysql.com/doc/refman/8.0/en/creating-accounts.html#creating-accounts-granting-privileges | MySQL :: MySQL 8.0 Reference Manual :: 6.2.8 Adding Accounts, Assigning Privileges, and Dropping Accounts
+https://docs.google.com/spreadsheets/d/1sBMlUwxXOaMf8lbCAPl9169nTNyBl9Q_4ve0ie6ddV0/edit#gid=0 | 2019.07 - Google Sheets
+http://www.mysqltutorial.org/mysql-string-length/ | MySQL String Length | Explain LENGTH and CHAR_LENGTH Functions
+https://smallbusiness.chron.com/mysql-substring-character-return-left-38065.html | MySQL Substring to Find a Character & Return Left | Chron.com
+https://www.google.com/search?q=what+is+the+use+of+self+join+sql&oq=what+is+the+use+of+self+join+sql&aqs=chrome..69i57j0l2.4259j0j7&sourceid=chrome&ie=UTF-8 | what is the use of self join sql - Google Search
+http://www.sqlservertutorial.net/sql-server-basics/sql-server-self-join/ | SQL Server Self Join By Practical Examples
+http://www.sqlservertutorial.net/sql-server-sample-database/ | SQL Server Sample Database
+https://stackoverflow.com/questions/3362038/what-is-self-join-and-when-would-you-use-it | sql - What is SELF JOIN and when would you use it? - Stack Overflow
+https://stackoverflow.com/questions/260441/how-to-create-relationships-in-mysql | sql - How to create relationships in MySQL - Stack Overflow
+https://www.guru99.com/joins.html | MySQL JOINS Tutorial: INNER, OUTER, LEFT, RIGHT, CROSS
+https://www.techonthenet.com/mysql/joins.php | MySQL: Joins
+https://www.google.com/search?q=crows+foot+phpmyadmin&oq=crows+foot+phpmyadmin&aqs=chrome..69i57.4466j0j7&sourceid=chrome&ie=UTF-8 | crows foot phpmyadmin - Google Search
+https://stackoverflow.com/questions/46223604/crows-foot-mysql-relationships | Crows Foot Mysql Relationships - Stack Overflow
+https://www.codeproject.com/Articles/878359/Data-Modelling-using-ERD-with-Crow-Foot-Notation | Data Modelling using ERD with Crow Foot Notation - CodeProject
+https://dba.stackexchange.com/questions/65862/crows-foot-notation-and-identifying-vs-non-identifying-relationships | foreign key - Crow's Foot notation and identifying -vs- non-identifying relationships - Database Administrators Stack Exchange
+http://marcrettig.me/wp-content/uploads/2017/04/rettigNormalizationPoster.pdf | normalization poster.psd
+https://www.databasestar.com/database-normalization/ | A Step-By-Step Guide to Normalization in DBMS With Examples
+https://www.databasestar.com/database-keys/ | Database Keys: The Complete Guide (Surrogate, Natural, Composite & More) - Database Star
+http://www.databaseanswers.org/data_models/ | Industry Data Models
+https://dev.mysql.com/doc/refman/8.0/en/regexp.html | MySQL :: MySQL 8.0 Reference Manual :: 12.5.2 Regular Expressions
+http://www.sqlines.com/mysql/regexp_rlike | MySQL - REGEXP, RLIKE - Guide, Examples and Alternatives - SQLines Open Source Tools
+https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9 | Learn to become a Backend Developer - tajawal - Medium
+https://www.geeksforgeeks.org/mysql-regular-expressions-regexp/ | MySQL | Regular expressions (Regexp) - GeeksforGeeks
+https://www.geeksforgeeks.org/different-types-of-procedures-in-mysql/ | Different types of Procedures in MySQL - GeeksforGeeks
+https://www.tutorialspoint.com/dbms/dbms_data_schemas | DBMS Data Schemas
+https://www.lucidchart.com/pages/database-diagram/database-schema | What is a Database Schema | Lucidchart
+https://www.google.com/search?q=what+is+the+difference+between+stored+procedure+and+view&oq=what+is+the+difference+of+stored+pro&aqs=chrome.2.69i57j0l5.14306j0j7&sourceid=chrome&ie=UTF-8 | what is the difference between stored procedure and view - Google Search
+https://stackoverflow.com/questions/5194995/what-is-the-difference-between-a-stored-procedure-and-a-view | sql - What is the difference between a stored procedure and a view? - Stack Overflow
+https://stackoverflow.com/questions/3773277/stored-procedures-vs-views | sql - Stored Procedures Vs. Views - Stack Overflow
+https://stackoverflow.com/questions/15142/what-are-the-pros-and-cons-to-keeping-sql-in-stored-procs-versus-code | c# - What are the pros and cons to keeping SQL in Stored Procs versus Code - Stack Overflow
+https://www.youtube.com/watch?v=tdOiRT3HMxo | Choosing Between Views, Functions, and Stored Procedures in SQL - YouTube
+https://www.w3schools.com/sql/sql_ref_mysql.asp | MySQL Functions
+https://www.geeksforgeeks.org/mysql-creating-stored-function/ | MySQL | Creating stored function - GeeksforGeeks
+https://www.google.com/search?q=how+to+create+a+stored+procedure+in+mysql&oq=how+to+create+a+stored&aqs=chrome.1.69i57j0l5.3851j0j7&sourceid=chrome&ie=UTF-8 | how to create a stored procedure in mysql - Google Search
+http://www.mysqltutorial.org/getting-started-with-mysql-stored-procedures.aspx | Getting Started with MySQL Stored Procedures
+http://www.mysqltutorial.org/mysql-cursor/ | MySQL Cursor with Example
+http://www.mysqltutorial.org/conditional-control-if-case-statement-stored-procedures.aspx | Conditional Control in Stored Procedures
+http://www.mysqltutorial.org/variables-in-stored-procedures.aspx | MySQL Stored Procedure Variables
+https://codelabs.developers.google.com/?cat=Web | Google Codelabs
+https://www.merriam-webster.com/dictionary/aggregate | Aggregate | Definition of Aggregate by Merriam-Webster
+http://charlesnagy.info/it/mysql/difference-between-distinct-and-group-by | Difference between DISTINCT and GROUP BY – Charles Nagy
+https://stackoverflow.com/questions/164319/is-there-any-difference-between-group-by-and-distinct | sql - Is there any difference between GROUP BY and DISTINCT - Stack Overflow
+https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html | MySQL :: MySQL 8.0 Reference Manual :: 12.21.1 Window Function Descriptions
+https://www.merriam-webster.com/dictionary/semantic | Semantic | Definition of Semantic by Merriam-Webster
+http://google.com/
+
+https://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java | Java (JVM) Memory Model - Memory Management in Java - JournalDev
+https://www.geeksforgeeks.org/mysql-regular-expressions-regexp/ | MySQL | Regular expressions (Regexp) - GeeksforGeeks
+https://dev.mysql.com/doc/apis-php/en/apis-php-mysqli.overview.html | MySQL :: MySQL PHP API :: 3.1 Overview
+https://www.google.com/search?q=sql+challenge+queries&oq=sql+chal&aqs=chrome.3.69i57j0l5.4804j0j7&sourceid=chrome&ie=UTF-8 | sql challenge queries - Google Search
+https://data-flair.training/blogs/primary-and-foreign-key-in-sql/ | Primary and Foreign Key in SQL With Examples - DataFlair
+http://www.complexsql.com/20-sql-queries-for-interview/ | 20 SQL Queries for interview | Complex SQL Queries for Interview
+https://www.techbeamers.com/sql-query-questions-answers-for-practice/ | 50 SQL Query Questions You Should Practice for Interview
+http://www.geeksengine.com/database/basic-select/arithmetic-operations.php | How to Perform Arithmetic Operations in SQL SELECT Statement for MySQL
+https://www.w3resource.com/sql/arithmetic-operators/sql-arithmetic-operators.php | SQL Arithmetic Operators - w3resource
+https://www.jquery-az.com/7-examples-explain-sql-select-distinct-mysql-sql-server/ | 7 Examples that Explain SQL SELECT DISTINCT (MySQL and SQL Server)
+http://www.sql-join.com/sql-join-types | SQL Join Types — SQL Joins Explained
+https://www.dotnettricks.com/learn/sqlserver/different-types-of-sql-joins | Different Types of SQL Joins
+https://stackoverflow.com/questions/21367981/how-to-use-aliases-in-math-operators-in-sql | mysql - How to use aliases in math operators in SQL? - Stack Overflow
+https://www.w3resource.com/sql/comparison-operators/sql-comparison-operators.php | SQL Comparison operator - w3resource
+http://www.mysqltutorial.org/mysql-foreign-key/ | MySQL Foreign Key | Create, Add, Drop Foreign Keys Tutorial
+https://www.ntu.edu.sg/home/ehchua/programming/sql/sampledatabases.html | MySQL Sample Databases
+https://www.itl.nist.gov/div897/ctg/dm/sql_examples.htm | SQL Examples
+https://stackoverflow.com/questions/54007824/how-to-set-sql-mode-in-my-cnf-in-mysql-8 | How to set sql_mode in my.cnf in MySQL 8? - Stack Overflow
+https://stackoverflow.com/questions/5771190/why-is-a-primary-foreign-key-relation-required-when-we-can-join-without-it | sql - Why is a primary-foreign key relation required when we can join without it? - Stack Overflow
+https://stackoverflow.com/questions/655446/what-exactly-is-a-foreign-key | database - What exactly is a foreign key? - Stack Overflow
+https://stackoverflow.com/questions/406294/left-join-vs-left-outer-join-in-sql-server/406333#406333 | tsql - LEFT JOIN vs. LEFT OUTER JOIN in SQL Server - Stack Overflow
+https://www.techonthenet.com/sql/tables/alter_table.php | SQL: ALTER TABLE Statement
+https://www.techonthenet.com/sql_server/tables/alter_table.php | SQL Server: ALTER TABLE Statement
+https://www.w3schools.com/sql/sql_constraints.asp | SQL Constraints
+https://docs.google.com/spreadsheets/d/1sBMlUwxXOaMf8lbCAPl9169nTNyBl9Q_4ve0ie6ddV0/edit#gid=0 | 2019.07 - Google Sheets
+
+https://stackoverflow.com/questions/1233506/how-to-get-current-datetime-in-sql | database - how to get current datetime in SQL? - Stack Overflow
+https://www.macworld.com/article/2080814/master-the-command-line-copying-and-moving-files.html | Master the command line: Copying and moving files on the Mac | Macworld
+https://www.youtube.com/watch?v=2HVMiPPuPIM | SQL Joins Tutorial for Beginners - Inner Join, Left Join, Right Join, Full Outer Join - YouTube
+https://www.a2hosting.com/kb/developer-corner/mysql/managing-mysql-databases-and-users-from-the-command-line | How to Manage MySQL Database, Table & User From Command Line
+http://www.sql-join.com/ | SQL Joins Explained
+https://stackoverflow.com/questions/11891567/what-does-do-in-java?rq=1 | list - What does <> do in Java? - Stack Overflow
+https://stackoverflow.com/questions/6607550/what-does-t-angle-brackets-mean-in-java | generics - What does <T> (angle brackets) mean in Java? - Stack Overflow
+https://stackoverflow.com/questions/20255911/what-does-the-e-syntax-mean-in-java | What does the <E> syntax mean in Java? - Stack Overflow
+https://docs.oracle.com/javase/tutorial/extra/generics/simple.html | Defining Simple Generics (The Java™ Tutorials > Bonus > Generics)
+http://www.mysqltutorial.org/mysql-cheat-sheet.aspx | MySQL Cheat Sheet
+https://www.youtube.com/watch?v=uAWWhEA57bE | IQ15: 6 SQL Query Interview Questions - YouTube
+https://dev.mysql.com/doc/refman/8.0/en/string-functions.html#function_concat | MySQL :: MySQL 8.0 Reference Manual :: 12.5 String Functions and Operators
+https://www.youtube.com/watch?v=-WEpWH1NHGU | Top 65 SQL Interview Questions and Answers | SQL Interview Preparation | SQL Training | Edureka - YouTube
+https://stackoverflow.com/questions/3757723/how-to-combine-multiple-columns-as-one-and-format-with-custom-strings | mysql - How to combine multiple columns as one and format with custom strings? - Stack Overflow
+https://www.w3schools.com/sql/sql_orderby.asp | SQL ORDER BY Keyword
+http://www.mysqltutorial.org/mysql-alias/ | MySQL Alias - Make The Queries More Readable
+https://www.w3resource.com/sql/subqueries/understanding-sql-subqueries.php | SQL Subqueries - w3resource
+https://www.dofactory.com/sql/select-count-sum-avg | SQL SELECT COUNT, SUM, AVG | Examples
+https://stackoverflow.com/questions/5020149/limit-sql-result-by-type-column-value | Limit SQL result by type (column value) - Stack Overflow
+https://www.w3schools.com/sql/sql_check.asp | SQL CHECK Constraint
+https://www.google.com/search?q=sql+examples+combine+address+fields&oq=sql+examples+combine+addres&aqs=chrome.1.69i57j33l2.10801j0j7&sourceid=chrome&ie=UTF-8 | sql examples combine address fields - Google Search
+https://www.mssqltips.com/sqlservertip/2985/concatenate-sql-server-columns-into-a-string-with-concat/ | Concatenate SQL Server Columns into a String with CONCAT()
+https://stackoverflow.com/questions/6427764/concatenate-two-database-columns-into-one-resultset-column | sql - concatenate two database columns into one resultset column - Stack Overflow
+https://www.google.com/search?q=2+different+columns+in+one+alias&oq=2+different+columns+in+one+alias&aqs=chrome..69i57.11596j0j7&sourceid=chrome&ie=UTF-8 | 2 different columns in one alias - Google Search
+https://stackoverflow.com/questions/13595634/alias-2-columns-to-the-same-name | mysql - Alias 2 columns to the same name - Stack Overflow
+https://stackoverflow.com/questions/52961367/make-an-alias-column-from-2-different-tables-in-mysql | sql - Make an alias column from 2 different tables in MySQL - Stack Overflow
+https://stackoverflow.com/questions/49925/what-is-the-difference-between-union-and-union-all | sql - What is the difference between UNION and UNION ALL? - Stack Overflow
+https://www.ntu.edu.sg/home/ehchua/programming/sql/MySQL_Beginner.html#zz-5.1 | MySQL Tutorial - MySQL By Examples for Beginners
+https://dev.mysql.com/doc/mysql-tutorial-excerpt/5.5/en/examples.html | MySQL :: MySQL Tutorial :: 7 Examples of Common Queries
+https://www.tutorialspoint.com/How-MySQL-IF-ELSE-statement-can-be-used-in-a-stored-procedure | How MySQL IF ELSE statement can be used in a stored procedure
+https://www.geeksforgeeks.org/sql-group-by/ | SQL | GROUP BY - GeeksforGeeks
+https://www.w3schools.com/sql/sql_groupby.asp | SQL GROUP BY Statement
+https://ixnfo.com/en/solution-mysql-error-1055-42000.html | Solution MySQL ERROR 1055 (42000) – IT Blog
+https://www.1keydata.com/sql/sql-coalesce.html | SQL - COALESCE Function | 1Keydata
+https://www.w3schools.com/sql/func_sqlserver_coalesce.asp | SQL Server COALESCE() Function
+https://stackoverflow.com/questions/34115174/error-related-to-only-full-group-by-when-executing-a-query-in-mysql | sql - Error related to only_full_group_by when executing a query in MySql - Stack Overflow
+https://stackoverflow.com/questions/47850148/how-to-fix-query-group-with-only-full-group-by | mysql - How to fix query group with only_full_group_by - Stack Overflow
+https://stackoverflow.com/questions/7588142/mysql-left-join-min/7588442#7588442 | group by - MySQL Left Join + Min - Stack Overflow
+https://dev.mysql.com/doc/refman/5.7/en/group-by-handling.html | MySQL :: MySQL 5.7 Reference Manual :: 12.20.3 MySQL Handling of GROUP BY
+https://dev.mysql.com/doc/refman/5.7/en/sql-mode.html#sql-mode-setting | MySQL :: MySQL 5.7 Reference Manual :: 5.1.10 Server SQL Modes
+https://stackoverflow.com/questions/40881773/how-to-turn-on-off-mysql-strict-mode-in-localhost-xampp | How to turn on/off MySQL strict mode in localhost (xampp)? - Stack Overflow
+
+https://www.youtube.com/watch?v=3xK5KKQx-J0 | MySql IF statements (and a sub query!) - YouTube
+https://www.studytonight.com/dbms/introduction-to-sql.php | Introduction to SQL (Structure Query Language) | Studytonight
+https://www.quackit.com/mysql/tutorial/ | MySQL Tutorial
+https://www.quackit.com/database/tutorial/what_is_a_database.cfm | What is a Database?
+https://www.calebcurry.com/introduction-to-sql/ | Introduction to SQL - Caleb Curry
+https://www.youtube.com/watch?v=wDZuiwitvqU&list=PL_c9BZzLwBRKHaa-qY7N-bmZYLPx3RYVB&index=5 | MySQL Tutorial 5 - String Data Types - YouTube
+https://www.youtube.com/results?search_query=sql+tutorial+for+beginners | sql tutorial for beginners - YouTube
+https://www.youtube.com/watch?v=9Pzj7Aj25lw | Learn SQL in 1 Hour - SQL Basics for Beginners - YouTube
+https://www.google.com/search?q=sql+using+terminal&oq=sql+using+terminal&aqs=chrome..69i57j0l3.4605j0j4&sourceid=chrome&ie=UTF-8 | sql using terminal - Google Search
+https://docs.oracle.com/cd/B25329_01/doc/appdev.102/b25108/xedev_sqlplus.htm#BJECGGFH | A Using SQL Command Line
+https://gist.github.com/hofmannsven/9164408 | MySQL CLI Cheatsheet
+https://dev.mysql.com/doc/refman/8.0/en/enum.html | MySQL :: MySQL 8.0 Reference Manual :: 11.4.4 The ENUM Type
+https://dev.mysql.com/doc/refman/8.0/en/update.html | MySQL :: MySQL 8.0 Reference Manual :: 13.2.12 UPDATE Syntax
+https://www.w3schools.com/sql/sql_join_left.asp | SQL LEFT JOIN Keyword
+https://www.digitalocean.com/community/tutorials/how-to-import-and-export-databases-in-mysql-or-mariadb | How To Import and Export Databases in MySQL or MariaDB | DigitalOcean
+https://fullspeed.atlassian.net/secure/RapidBoard.jspa?rapidView=100&projectKey=FSTSI&selectedIssue=FSTSI-176 | FI board - Agile Board - JIRA
+https://www.google.com/search?ei=M08sXd9Q1OvBA9i1tYAD&q=how+to+merge+2+columns+in+sql&oq=how+to+merge+2+col&gs_l=psy-ab.3.4..0.0..85...0.0..0.0.0.......0......gws-wiz._qkdpw5oiaI | how to merge 2 columns in sql - Google Search
+https://stackoverflow.com/questions/20284528/how-to-concat-two-columns-into-one-with-the-existing-column-name-in-mysql/20285571 | how to concat two columns into one with the existing column name in mysql? - Stack Overflow
+https://www.techonthenet.com/sql/select_limit.php | SQL: SELECT LIMIT Statement
+https://www.techonthenet.com/sql/select_top.php | SQL: SELECT TOP Statement
+
+https://stackoverflow.com/questions/31092505/how-to-save-a-file-with-a-new-name-in-vim-while-switching-to-that-new-buffer-an | How to save a file with a new name in VIM while switching to that new buffer (and closing the original) - Stack Overflow
+https://www.youtube.com/watch?v=hwrnmQumtPw | Shell Scripting Tutorial - YouTube
+https://www.youtube.com/watch?v=VGgTmxXp7xQ | Linux/Mac Terminal Tutorial: The Grep Command - Search Files and Directories for Patterns of Text - YouTube
+https://www.shellscript.sh/ | The Shell Scripting Tutorial
+https://stackoverflow.com/questions/2286552/difference-between-a-script-and-a-program | scripting - Difference between a script and a program? - Stack Overflow
+https://stackoverflow.com/questions/17253545/scripting-language-vs-programming-language | Scripting Language vs Programming Language - Stack Overflow
+https://stackoverflow.com/questions/5725296/difference-between-sh-and-bash | shell - Difference between sh and bash - Stack Overflow
+https://askubuntu.com/questions/172481/is-bash-scripting-the-same-as-shell-scripting | scripts - Is bash scripting the same as shell scripting? - Ask Ubuntu
+http://tldp.org/LDP/Bash-Beginners-Guide/Bash-Beginners-Guide.pdf | Bash Guide for Beginners
+http://mywiki.wooledge.org/Bashism | Bashism - Greg's Wiki
+https://whatis.techtarget.com/definition/POSIX-Portable-Operating-System-Interface | What is POSIX (Portable Operating System Interface)? - Definition from WhatIs.com
+https://stackoverflow.com/questions/1780599/what-is-the-meaning-of-posix | linux - What is the meaning of "POSIX"? - Stack Overflow
+https://unix.stackexchange.com/questions/11983/what-exactly-is-posix | standard - What exactly is POSIX? - Unix & Linux Stack Exchange
+https://whatis.techtarget.com/definition/POSIX-Portable-Operating-System-Interface | What is POSIX (Portable Operating System Interface)? - Definition from WhatIs.com
+https://stackoverflow.com/tour | Tour - Stack Overflow
+https://www.lifewire.com/what-is-a-command-line-interpreter-2625827 | What Is a Command Line Interpreter?
+https://en.wikipedia.org/wiki/List_of_command-line_interpreters | List of command-line interpreters - Wikipedia
+https://www.tutorialspoint.com/developers_best_practices/index.htm | Developers Best Practices Tutorial
+https://www.merriam-webster.com/dictionary/per%20se | Per Se | Definition of Per Se by Merriam-Webster
+https://www.wikihow.com/Open-Exe-Files-on-Mac | How to Open Exe Files on Mac (with Pictures) - wikiHow
+https://www.quora.com/What-is-the-equivalent-exe-file-on-OS-X-when-launching-general-apps | What is the equivalent .exe file on OS X when launching general apps? - Quora
+https://en.wikipedia.org/wiki/.exe | .exe - Wikipedia
+https://stackoverflow.com/questions/8409946/how-do-i-make-this-file-sh-executable-via-double-click | macos - How do I make this file.sh executable via double click? - Stack Overflow
+https://www.shortcutfoo.com/blog/top-50-vim-configuration-options/ | Top 50 Vim Configuration Options - ShortcutFoo Blog
+https://www.linode.com/docs/tools-reference/tools/introduction-to-vim-customization/ | Introduction To Vim Customization
+https://unix.stackexchange.com/questions/87560/does-the-shebang-determine-the-shell-which-runs-the-script | scripting - Does the shebang determine the shell which runs the script? - Unix & Linux Stack Exchange
+https://www.google.com/search?q=what+is+cat+command+in+mac&oq=what+is+cat+command+in+mac&aqs=chrome..69i57j33l3.6831j0j7&sourceid=chrome&ie=UTF-8 | what is cat command in mac - Google Search
+https://www.tecmint.com/13-basic-cat-command-examples-in-linux/ | 13 Basic Cat Command Examples in Linux
+https://www.youtube.com/watch?v=KCVaNb_zOuw | Linux/Mac Terminal Tutorial: How To Use The find Command - YouTube
+https://drive.google.com/file/d/1FBy_T2aVEZGUop1_o-QaLDCe9RCs4usV/view | Vim-Cheatsheet.pdf - Google Drive
+https://www.ubuntupit.com/100-useful-vim-commands-that-youll-need-every-day/ | 100 Useful Vim Commands That You'll Need Every day
+https://coderwall.com/p/adv71w/basic-vim-commands-for-getting-started | Basic Vim commands - For getting started (Example)
+http://www.freeos.com/guides/lsst/ch08.html | LSST v1.05 > Chapter 8 > Examples of Shell Scripts
+http://www.freeos.com/guides/lsst/scripts/q3 | www.freeos.com/guides/lsst/scripts/q3
+https://www.google.com/search?q=what+is+the+difference+when+a+running+a+script+.%2F+and+bash&oq=what+is+the+difference+when+a+running+a+script+.%2F+and+bash&aqs=chrome..69i57.19850j0j7&sourceid=chrome&ie=UTF-8 | what is the difference when a running a script ./ and bash - Google Search
+https://askubuntu.com/questions/661577/difference-between-and-for-running-a-script-application | bash - Difference between "./" and ". " for running a script/application? - Ask Ubuntu
+https://askubuntu.com/questions/22910/what-is-the-difference-between-and-sh-to-run-a-script | command line - What is the difference between ./ and sh to run a script? - Ask Ubuntu
+https://ryanstutorials.net/bash-scripting-tutorial/ | Bash Scripting Tutorial - Ryans Tutorials
+https://www.w3schools.com/php7/php7_if_else.asp | PHP 7 if...else...elseif Statements
+https://devhints.io/bash | Bash scripting cheatsheet
+https://devhints.io/ | Devhints — TL;DR for developer documentation
+https://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/ | Types Of Database Management Systems
+https://www.c-sharpcorner.com/article/what-is-the-most-popular-database-in-the-world/ | Most Popular Databases In The World
+https://www.e-iceblue.com/download/free-products.html | Free .NET/JAVA Word, Excel, PDF, PowerPoint，Barcode Components
+
+https://www.youtube.com/user/jelledTV/videos | WebConcepts - YouTube
+https://stackoverflow.com/questions/6697753/difference-between-single-and-double-quotes-in-bash#6697781 | shell - Difference between single and double quotes in Bash - Stack Overflow
+https://www.tutorialspoint.com/sql/sql-rdbms-concepts | SQL RDBMS Concepts
+https://techterms.com/definition/rdbms | RDBMS (Relational Database Management System) Definition
+https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh | Git Staging Area: Explained Like I'm Five - DEV Community 👩‍💻👨‍💻
+https://softwareengineering.stackexchange.com/questions/119782/what-does-stage-mean-in-git | version control - What does 'stage' mean in git? - Software Engineering Stack Exchange
+https://www.programmableweb.com/ | ProgrammableWeb - APIs, Mashups and the Web as Platform
+
+https://www.youtube.com/watch?v=zwAqbJH7gzk | 8. Introduction to .vimrc file in vim - YouTube
+http://gitready.com/advanced/2009/02/11/pull-with-rebase.html | git ready » pull with rebase
+https://stackoverflow.com/questions/18930527/difference-between-git-pull-and-git-pull-rebase | Difference between git pull and git pull --rebase - Stack Overflow
+https://stackoverflow.com/questions/2472254/when-should-i-use-git-pull-rebase | When should I use git pull --rebase? - Stack Overflow
+https://stackoverflow.com/questions/16330404/how-to-remove-remote-origin-from-git-repo | How to remove remote origin from Git repo - Stack Overflow
+https://git-scm.com/docs/git-pull | Git - git-pull Documentation
+https://help.github.com/en/articles/removing-a-remote | Removing a remote - GitHub Help
+https://code.snipcademy.com/tutorials/git/fundamentals/adding-committing | Git Tutorial | Adding and Committing | Code Snipcademy
+https://www.google.com/search?q=what+does+both+modified+means+in+git&oq=what+does+both+modified+means+in+git&aqs=chrome..69i57j33.6750j0j7&sourceid=chrome&ie=UTF-8 | what does both modified means in git - Google Search
+https://stackoverflow.com/questions/41309357/git-git-checkout-ours-still-showing-both-modified | linux - GIT: git checkout --ours still showing "both modified" - Stack Overflow
+https://nitaym.github.io/ourstheirs/ | git - ours vs theirs
+https://stackoverflow.com/questions/25576415/what-is-the-precise-meaning-of-ours-and-theirs-in-git | merge - What is the precise meaning of "ours" and "theirs" in git? - Stack Overflow
+https://dev.to/willamesoares/git-ours-or-theirs-part1-agh | Git: Ours or Theirs? (Part 1) - DEV Community 👩‍💻👨‍💻
+https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Basic-Snapshotting | Git - Basic Snapshotting
+https://dev.to/antjanus/my-personal-git-tricks-cheatsheet-23j1 | My Personal Git Tricks Cheatsheet - DEV Community 👩‍💻👨‍💻
+https://ohshitgit.com/ | Oh, shit, git!
+https://stackoverflow.com/questions/29608028/git-how-to-redo-a-merge-conflict-resolution-before-committing-the-merge | git: How to redo a merge conflict resolution (before committing the merge)? - Stack Overflow
+https://mijingo.com/blog/reverting-a-git-merge | Reverting a Git Merge - Mijingo
+https://www.atlassian.com/git/tutorials/using-branches | Git Branch | Atlassian Git Tutorial
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging | Git - Basic Branching and Merging
+https://git-scm.com/book/en/v2/Git-Tools-Stashing-and-Cleaning#_git_stashing | Git - Stashing and Cleaning
+https://github.com/joshnh/Git-Commands | joshnh/Git-Commands: A list of commonly used Git commands
+https://www.quora.com/What-is-the-difference-between-pull-and-clone-in-git | What is the difference between pull and clone in git? - Quora
+https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc | Learn git concepts, not commands - DEV Community 👩‍💻👨‍💻
+https://stackoverflow.com/questions/8358035/whats-the-difference-between-git-revert-checkout-and-reset | What's the difference between Git Revert, Checkout and Reset? - Stack Overflow
+https://git-scm.com/docs/git-pull | Git - git-pull Documentation
+https://gist.github.com/grimzy/a1d3aae40412634df29cf86bb74a6f72 | Git pull all remote branches
+https://stackoverflow.com/questions/10312521/how-to-fetch-all-git-branches | branch - How to fetch all Git branches - Stack Overflow
+https://stackoverflow.com/questions/67699/how-to-clone-all-remote-branches-in-git | github - How to clone all remote branches in Git? - Stack Overflow
+https://www.google.com/search?ei=5UIkXZuKO8mGoASz6LPoAg&q=how+to+configure+fetch+and+pull+remote+url&oq=how+to+configure+fetch+and+pull+remote+url&gs_l=psy-ab.3...20269.20643..21222...0.0..1.208.609.0j3j1......0....1..gws-wiz.......0i71j33i21j33i160.XtlLEbc35PU | how to configure fetch and pull remote url - Google Search
+https://stackoverflow.com/questions/47959659/how-to-change-fetch-url-of-a-git-repository | fork - How to change fetch URL of a git repository. - Stack Overflow
+https://www.google.com/search?q=how+to+colorized+terminal+in+visual+studio+code+mac&oq=how+to+colorized+terminal+in+visu&aqs=chrome.3.69i57j33l5.8473j0j7&sourceid=chrome&ie=UTF-8 | how to colorized terminal in visual studio code mac - Google Search
+https://stackoverflow.com/questions/42307949/color-theme-for-vs-code-integrated-terminal | Color theme for VS Code integrated terminal - Stack Overflow
+https://codingbee.net/git/git-file-states | Git – File states – CodingBee
+https://anandabhisheksingh.me/file-states-git/ | File states in Git - Anand
+https://www.google.com/search?q=git+branch+image&tbm=isch&source=iu&ictx=1&fir=I4vn47PROhlMoM%253A%252C9KS7cMDwytpE_M%252C_&vet=1&usg=AI4_-kQ2oZaTSYxlKpB1_-7_g6DDnktIkA&sa=X&ved=2ahUKEwi7l9iJvafjAhWMPXAKHZfKBDgQ9QEwAHoECAcQBA#imgrc=Y9oAm43reh6VtM:&vet=1 | git branch image - Google Search
+https://www.teamstudio.com/blog/distributed-vs-centralized-version-control-systems-for-lotus-notes | Centralized vs Distributed Version Control Systems - What's Best for Notes Development? — Teamstudio
+https://www.merriam-webster.com/dictionary/stutter | Stutter | Definition of Stutter by Merriam-Webster
+https://stackoverflow.com/questions/737673/how-to-read-the-mode-field-of-git-ls-trees-output/8347325#8347325 | file permissions - How to read the mode field of git-ls-tree's output - Stack Overflow
+https://uizard.io/?gclid=Cj0KCQjw9pDpBRCkARIsAOzRzisTUmt8JSJhpY8Tk6FMv4MyFP5A5D6t8bNjUTCNYuj1fo-3Kzrw8vYaAgmhEALw_wcB | uizard
+
+https://nuclearsquid.com/writings/git-add/ | git add --patch and --interactive
+https://git-scm.com/book/id/v2/Appendix-C%3A-Git-Commands-Patching | Git - Patching
+https://stackoverflow.com/questions/8279602/what-is-a-patch-in-git-version-control | What is a patch in git version control? - Stack Overflow
+https://www.tutorialspoint.com/git/git_patch_operation.htm | Git Patch Operation
+https://help.github.com/en/articles/removing-files-from-a-repositorys-history | Removing files from a repository's history - GitHub Help
+https://koukia.ca/personalizing-git-aliasing-commands-4dda73b54081 | Personalizing GIT: Aliasing commands – Aram Koukia
+https://stackoverflow.com/questions/35881645/git-removing-or-editing-an-alias | terminal - Git - Removing or editing an alias - Stack Overflow
+https://stackoverflow.com/questions/20109764/how-to-rename-custom-git-alias | How to rename custom git alias? - Stack Overflow
+https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell | Git - Branches in a Nutshell
+https://git-scm.com/docs/git-revert | Git - git-revert Documentation
+https://git-scm.com/docs/git-checkout | Git - git-checkout Documentation
+
+https://fullspeed.atlassian.net/secure/RapidBoard.jspa?rapidView=100&projectKey=FSTSI&selectedIssue=FSTSI-167 | FI board - Agile Board - JIRA
+https://stackoverflow.com/questions/7310177/how-do-i-make-a-branch-point-at-a-specific-commit/45998765 | git - How do I make a branch point at a specific commit? - Stack Overflow
+https://stackoverflow.com/questions/5471174/move-branch-pointer-to-different-commit-without-checkout | git - Move branch pointer to different commit without checkout - Stack Overflow
+https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/submodules#start | Submodules
+https://stackoverflow.com/questions/3965676/why-did-my-git-repo-enter-a-detached-head-state | Why did my Git repo enter a detached HEAD state? - Stack Overflow
+https://github.com/SaintPudge/Exercise8/tree/master | SaintPudge/Exercise8
+https://stackoverflow.com/questions/6865302/push-local-git-repo-to-new-remote-including-all-branches-and-tags | Push local Git repo to new remote including all branches and tags - Stack Overflow
+https://stackoverflow.com/questions/23892037/push-all-local-branches-to-origin-in-git/23892184 | Push all local branches to origin in git - Stack Overflow
+https://stackoverflow.com/questions/1914579/set-up-git-to-pull-and-push-all-branches | version control - Set up git to pull and push all branches - Stack Overflow
+https://www.google.com/search?q=how+to+undo+a+rebase&oq=how+to+undo+a+rebase&aqs=chrome..69i57j0l2.9727j0j7&sourceid=chrome&ie=UTF-8 | how to undo a rebase - Google Search
+https://stackoverflow.com/questions/41049711/git-how-to-rollback-a-rebase/41049867 | Git how to rollback a rebase - Stack Overflow
+https://www.youtube.com/watch?v=lspQJKIO2Eg | Editing With vim 06 - Yanking, Cutting, and Pasting - YouTube
+https://www.youtube.com/watch?v=FdZecVxzJbk | Git Tutorial: Fixing Common Mistakes and Undoing Bad Commits - YouTube
+https://www.youtube.com/watch?v=YX40hbAHx3s | P vs. NP and the Computational Complexity Zoo - YouTube
+https://www.youtube.com/watch?v=wlR5gYd6um0 | Mastering the Vim Language - YouTube
+https://learngitbranching.js.org/ | Learn Git Branching
+https://www.google.com/search?q=does+rebase+delete+commits&oq=do+rebase+erase+&aqs=chrome.1.69i57j0l2.5760j0j7&sourceid=chrome&ie=UTF-8 | does rebase delete commits - Google Search
+https://help.github.com/en/articles/about-git-rebase | About Git rebase - GitHub Help
+https://www.google.com/search?q=what+is+commit+--amend&oq=what+is+commit+--amend&aqs=chrome..69i57.3376j1j7&sourceid=chrome&ie=UTF-8 | what is commit --amend - Google Search
+https://www.atlassian.com/git/tutorials/rewriting-history | git amend | Atlassian Git Tutorial
+https://stackabuse.com/git-difference-between-git-fetch-and-git-pull/ | Git: Difference Between 'git fetch' and 'git pull'
+https://stackoverflow.com/questions/21045061/git-clone-from-another-directory | git clone from another directory - Stack Overflow
+https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone | git clone | Atlassian Git Tutorial
+https://www.google.com/search?ei=MLMdXfTQAcTN-Qb64pfQDg&q=marble+run+bright+minds&oq=marble+run+for+br&gs_l=psy-ab.3.4.0i22i30l9.7139.12059..14074...1.0..1.266.1329.3j4j2......0....1..gws-wiz.......0i71j0j0i67.QZlKqoCiTMw | marble run bright minds - Google Search
+https://www.google.com/search?q=what+is+fast+forward+merge&oq=what+is+fast+forward+merge&aqs=chrome.0.0l2.5269j0j4&sourceid=chrome&ie=UTF-8 | what is fast forward merge - Google Search
+https://drive.google.com/drive/folders/1AmiYz5xHczrl6Z5z8hVAgzpkw3lfnQK3 | Git Tutorial - Google Drive
+http://www-cs-students.stanford.edu/~blynn/gitmagic/ch04.html | Git Magic - Chapter 4. Branch Wizardry
+https://mijingo.com/blog/how-to-create-git-aliases | How to Create Git Aliases - Mijingo
+https://stackoverflow.com/questions/36358265/when-does-git-refresh-the-list-of-remote-branches | github - When does git refresh the list of remote branches? - Stack Overflow
+https://coderwall.com/p/7sbkza/update-remote-branch-list | Update remote branch list (Example)
+https://www.google.com/search?biw=1680&bih=873&ei=DNkdXeTJF9Hj-AaZk7nYAg&q=eol+sequences&oq=eol+sequences&gs_l=psy-ab.3...8591.14374..14875...1.0..0.353.1925.6j6j1j1......0....1..gws-wiz.......0i71j0j0i22i30j0i22i10i30j0i67j0i10.HHmrAKSUzL8 | eol sequences - Google Search
+https://eol.org/docs/what-is-eol/data-services | Encyclopedia of Life
+https://en.wikipedia.org/wiki/Newline | Newline - Wikipedia
+
+https://stackoverflow.com/questions/8196544/what-are-the-git-concepts-of-head-master-origin | What are the git concepts of HEAD, master, origin? - Stack Overflow
+https://stackoverflow.com/questions/17223527/how-do-i-force-git-to-checkout-the-master-branch-and-remove-carriage-returns-aft | newline - How do I force git to checkout the master branch and remove carriage returns after I've normalized files using the "text" attribute? - Stack Overflow
+https://guide.freecodecamp.org/git/git-checkout/ | Git Checkout | freeCodeCamp Guide
+https://rollout.io/blog/git-create-branch/ | Git Create Branch: 4 Ways You Can Do It - Rollout Blog
+https://clubmate.fi/git-removing-files-from-the-staging-area-and-the-tree/#Remove_files_from_the_staging_area | Git: removing files from the staging area and the tree – clubmate.fi
+https://stackoverflow.com/questions/19730565/how-to-remove-files-from-git-staging-area/39454637 | How to remove files from git staging area? - Stack Overflow
+https://stackoverflow.com/questions/1505948/how-do-i-remove-a-single-file-from-the-staging-area-undo-git-add | version control - How do I remove a single file from the staging area (undo git add)? - Stack Overflow
+https://www.shellhacks.com/git-diff-staged-unstaged-files/ | Git - Diff Staged and Unstaged Files - ShellHacks
+https://softwareengineering.stackexchange.com/questions/329829/why-use-pull-requests-instead-of-merging/329832#329832 | version control - Why use pull requests instead of merging - Software Engineering Stack Exchange
+https://www.youtube.com/watch?v=CRlGDDprdOQ | Git MERGE vs REBASE - YouTube
+https://www.thinkful.com/learn/github-pull-request-tutorial/#Keep-Tabs-on-the-Project | GitHub Pull Request Tutorial · Thinkful Programming Guides
+https://git-scm.com/docs/git-rebase | Git - git-rebase Documentation
+https://git-scm.com/doc | Git - Documentation
+https://www.youtube.com/results?search_query=what+is+revert+in+git | what is revert in git - YouTube
+https://www.youtube.com/watch?v=3dk3s4LK-Wg | Git Tutorial 4: Undoing/Reverting/Resetting code changes - YouTube
+https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c | git — Rebase vs Merge - Data Driven Investor - Medium
+https://stackoverflow.com/questions/2861627/paste-in-insert-mode | vim - Paste in insert mode? - Stack Overflow
+https://stackoverflow.com/questions/13000563/how-to-push-multiple-branches-from-multiple-commits | git - How to push multiple branches from multiple commits? - Stack Overflow
+
+https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc | Learn git concepts, not commands - DEV Community 👩‍💻👨‍💻
+https://programminghistorian.org/en/lessons/intro-to-bash#introduction-to-the-bash-command-line | Introduction to the Bash Command Line | Programming Historian
+https://drive.google.com/drive/folders/1AmiYz5xHczrl6Z5z8hVAgzpkw3lfnQK3 | Git Tutorial - Google Drive
+http://www.projectcodemeter.com/cost_estimation/help/GL_sloc.htm | Source lines of code (LOC, SLOC, KLOC, LLOC)
+https://www.google.com/search?q=how+to+clear+all+cells+in+google+sheets&oq=how+to+clear+all+cells+in+goo&aqs=chrome.1.69i57j33l5.8095j0j7&sourceid=chrome&ie=UTF-8 | how to clear all cells in google sheets - Google Search
+https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch | What is the difference between 'git pull' and 'git fetch'? - Stack Overflow
+https://www.google.com/search?ei=VrkZXfr8GsvR-Qa2y6DAAg&q=how+to+hide+cells+in+google+sheets&oq=how+to+hide+cells+in+google+sheets&gs_l=psy-ab.3..0j0i7i30.10786.12640..12981...0.0..0.86.717.9......0....1..gws-wiz.......0i71.YB1O4xYyLJg | how to hide cells in google sheets - Google Search
+https://stackoverflow.com/questions/8196544/what-are-the-git-concepts-of-head-master-origin | What are the git concepts of HEAD, master, origin? - Stack Overflow
+https://git-scm.com/book/en/v2 | Git - Book
+https://stackoverflow.com/questions/2432764/how-to-change-the-uri-url-for-a-remote-git-repository | How to change the URI (URL) for a remote Git repository? - Stack Overflow
+https://help.github.com/en/articles/changing-a-remotes-url | Changing a remote's URL - GitHub Help
+https://www.google.com/search?q=how+to+clear+a+repository+github&oq=how+to+clear+a+repo&aqs=chrome.2.69i57j0l5.10130j0j9&sourceid=chrome&ie=UTF-8 | how to clear a repository github - Google Search
+https://stackoverflow.com/questions/28578581/how-to-completely-clear-git-repository-without-deleting-it | How to completely clear git repository, without deleting it - Stack Overflow
+https://stackoverflow.com/questions/15454555/how-can-i-completely-empty-the-master-branch-in-git/15454661#15454661 | How can I completely empty the master branch in Git? - Stack Overflow
+https://www.git-tower.com/learn/git/faq/delete-remote-branch | How can I delete a remote branch in Git?
+https://multiplestates.wordpress.com/2015/02/05/rename-a-local-and-remote-branch-in-git/ | Rename a local and remote branch in git – Multiple States Knowledge Base
+https://help.github.com/en/articles/changing-a-commit-message | Changing a commit message - GitHub Help
+
+https://www.merriam-webster.com/dictionary/esoteric | Esoteric | Definition of Esoteric by Merriam-Webster
+https://www.merriam-webster.com/dictionary/constraint | Constraint | Definition of Constraint by Merriam-Webster
+https://www.merriam-webster.com/dictionary/aggregate | Aggregate | Definition of Aggregate by Merriam-Webster
+http://osxdaily.com/2011/02/21/change-file-permissions-mac/ | Change File Permissions in Mac OS X
+https://www.merriam-webster.com/dictionary/reminisce | Reminisce | Definition of Reminisce by Merriam-Webster
+https://www.merriam-webster.com/dictionary/index | Index | Definition of Index by Merriam-Webster
+https://www.merriam-webster.com/dictionary/pristine | Pristine | Definition of Pristine by Merriam-Webster
+https://www.merriam-webster.com/dictionary/interpolate | Interpolate | Definition of Interpolate by Merriam-Webster
+
+https://macpaw.com/how-to/use-terminal-on-mac | How to use Terminal on Mac: Basic commands and functions
+https://alvinalexander.com/git/git-status-your-branch-is-ahead-of-origin-master-by-commits | git status message - Your branch is ahead of origin/master by X commits | alvinalexander.com
+https://www.youtube.com/watch?v=FuDlMzxY5MM&list=PLKwpk9WxqhtLjEAES5Sl9WDRSbux3C8gT&index=3 | Choosing a Database Extension - PHP Standard and Practices Part 3 - YouTube
+https://editorconfig.org/ | EditorConfig
+https://www.codexpedia.com/php/running-php-code-on-terminal-window/ | Running php code on Terminal window | Codexpedia
+https://www.php.net/manual/en/function.list.php | PHP: list - Manual
+
+https://apple.stackexchange.com/questions/48502/how-can-i-permanently-add-my-ssh-private-key-to-keychain-so-it-is-automatically | How can I permanently add my SSH private key to Keychain so it is automatically available to ssh? - Ask Different
+https://multiplestates.wordpress.com/2015/02/05/rename-a-local-and-remote-branch-in-git/ | Rename a local and remote branch in git – Multiple States Knowledge Base
+https://git-scm.com/docs/git-remote | Git - git-remote Documentation
+https://rogerdudler.github.io/git-guide/ | git - the simple guide - no deep shit!
+https://git-scm.com/book/en/v2/Getting-Started-Getting-Help | Git - Getting Help
+https://git-scm.com/docs/git-clone | Git - git-clone Documentation
+https://learngitbranching.js.org/ | Learn Git Branching
+http://git-school.github.io/visualizing-git/ | Visualizing Git
+https://www.google.com/search?q=git+tutorial+medium&oq=git+tutorial+med&aqs=chrome.1.69i57j0j69i64.15258j0j7&sourceid=chrome&ie=UTF-8 | git tutorial medium - Google Search
+https://medium.com/@george.seif94/a-full-tutorial-on-how-to-use-github-88466bac7d42 | A full tutorial on how to use GitHub - George Seif - Medium
+https://www.google.com/search?q=what+does+ahead+of+commits+means+in+git&oq=what+does+ahead+of+commits+means+in+git&aqs=chrome..69i57j33l3.9573j1j7&sourceid=chrome&ie=UTF-8 | what does ahead of commits means in git - Google Search
+https://stackoverflow.com/questions/6643415/meaning-of-github-ahead-behind-metrics | repository - Meaning of Github Ahead/Behind Metrics - Stack Overflow
+https://alvinalexander.com/git/git-cheat-sheet-git-reference-commands | A Git cheat sheet (Git command reference) | alvinalexander.com
+https://alvinalexander.com/git/git-shortcuts-aliases-long-commands-how-to-create | Git shortcuts/aliases - How to create | alvinalexander.com
+https://medium.com/@steveamaza/how-to-write-a-proper-git-commit-message-e028865e5791 | How To Write Proper Git Commit Messages - Stephen Amaza - Medium
+https://stackoverflow.com/questions/3663895/ssh-the-authenticity-of-host-hostname-cant-be-established | ssh keys - ssh: The authenticity of host 'hostname' can't be established - Stack Overflow
+https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/ | First steps with git: clone, add, commit, push | Earth Data Science - Earth Lab
+https://help.github.com/en/articles/adding-a-remote | Adding a remote - GitHub Help
